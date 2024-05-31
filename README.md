@@ -96,13 +96,15 @@ The menopausal status data shows that a larger proportion of patients (58%) were
 ![](picture2.png)
 ![](picture3.png)
 ---
+#### RECOMMENDATION
 
+Based on what we've learned, it's important for younger women to get regular check-ups. For older women, it's important to have more thorough screenings and treatments tailored to their specific hormone levels to improve their chances of recovery.
+---
 
 #### CONCLUSION
+
 These insights help identify patterns associated with breast cancer in different age groups.
----
-#### RECOMMENDATION
-Based on what we've learned, it's important for younger women to get regular check-ups. For older women, it's important to have more thorough screenings and treatments tailored to their specific hormone levels to improve their chances of recovery.
+
 
 
 
