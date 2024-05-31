@@ -39,5 +39,13 @@ Cancer is one of the most common types of Cancer in women. It is the second most
 2. Percentage of women dead/having a recurring lymph node 43.5%
 3. It is observable from the visuals that the percentage of patients with tumor grade 2 was the highest at 64.72%
 4. We observe that the number of patient in post menopausal stage was highest at 57.13% against 42.2% of premenopausal stage.
+---
 
 
+#### RECOMMENDATION
+(1.) From the visualization women of the age of 76 have a higher positive node showing that older women are more suceptible to cancer. Consequently, women in this category need to schedule regular appointment with an oncologist to mitigate against, and grossly reduce the possibility of recoccurence of positive lymph nodes. 
+(2.) It is recommended that comprehensive sensitization and education for women about the causes, symptoms and effects of positive lymphatic nodes in women be carried out regularly.
+
+
+$${\color{red}Welcome}$$
+<style>welcome{color:Blue;}</style>
