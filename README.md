@@ -61,23 +61,23 @@ The menopausal status data shows that a larger proportion of patients (58%) were
 
 ##### Age Distribution
 - The majority of women were concentrated between ages 43-65, with the highest percentage at age 47 (36 women).
-- Visuals: A histogram or density plot illustrating age distribution, highlighting the concentration at ages 43-65.
+
 
 ##### Positive Lymph Nodes by Age
 - A line chart shows that women at age 76 had the highest number of positive lymph nodes. There is a trend of increasing positive lymph nodes with age.
-- Visuals: Line chart illustrating the trend of positive lymph nodes by age.
+
 
 ##### Estrogen Receptors by Age
 - A line chart shows that older women (ages 69-80) have higher estrogen receptor levels on cancer cells compared to younger women.
-- Visuals: Line chart showing the average estrogen receptor levels by age.
+
 
 ##### Progesterone Receptors by Age
 - A line chart indicates that women at age 80 have the highest levels of progesterone receptor distribution.
-- Visuals: Line chart showing the average progesterone receptor levels by age.
+
 
 ##### Tumor Size by Age
 - A line chart shows that women at age 31 had the highest tumor size (41.5mm).
-- Visuals: Line chart illustrating the average tumor size by age.
+
 ---
 
 #### INSIGHTS
@@ -91,6 +91,8 @@ The menopausal status data shows that a larger proportion of patients (58%) were
 - Progesterone receptor levels were highest at age 80.
 - The largest tumor size was observed at age 31.
 ---
+#### VISUAL Report
+
 
 #### CONCLUSION
 These insights help identify patterns associated with breast cancer in different age groups.
