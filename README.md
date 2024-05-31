@@ -92,6 +92,10 @@ The menopausal status data shows that a larger proportion of patients (58%) were
 - The largest tumor size was observed at age 31.
 ---
 #### VISUAL Report
+![](picture1.png)
+![](picture2.png)
+![](picture3.png)
+---
 
 
 #### CONCLUSION
