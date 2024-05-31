@@ -47,5 +47,3 @@ Cancer is one of the most common types of Cancer in women. It is the second most
 (2.) It is recommended that comprehensive sensitization and education for women about the causes, symptoms and effects of positive lymphatic nodes in women be carried out regularly.
 
 
-$${\color{red}Welcome}$$
-<style>welcome{color:Blue;}</style>
