@@ -105,6 +105,10 @@ Based on what we've learned, it's important for younger women to get regular che
 
 These insights help identify patterns associated with breast cancer in different age groups.
 
+# REPORT
+
+I had one of the best weeks of my life at the just concluded future boot camp by incubator nigeria and RCCG, I would say that i have never experienced anything like, Kudos you to you guys.
+
 
 
 
