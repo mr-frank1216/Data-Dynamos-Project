@@ -11,12 +11,13 @@
 - [DETAILED FINDINGS](#DETAILED-FINDINGS)
 - [INSIGHT](#INSIGHT)
 - [VISUAL REPORT](#VISUAL-REPORT)
-- [CONCLUSION](#CONCLUSION)
 - [RECOMMENDATION](#RECOMMENDATION)
+- [CONCLUSION](#CONCLUSION)
 ---
 
 #### INTRODUCTION
-Breast cancer is one of the most prevalent cancers among women globally and is the second most common cancer overall. This study illustrates trials conducted by the German Breast Cancer Study Group (GBSG) from 1984 to 1989, focusing on patients with node-positive breast cancer.
+Breast cancer is one of the most prevalent cancers among women globally and is the second most common cancer overall.
+This study illustrates trials conducted by the German Breast Cancer Study Group (GBSG) from 1984 to 1989, focusing on patients with node-positive breast cancer.
 ---
 
 #### AIMS AND OBJECTIVE
@@ -91,23 +92,22 @@ The menopausal status data shows that a larger proportion of patients (58%) were
 - Progesterone receptor levels were highest at age 80.
 - The largest tumor size was observed at age 31.
 ---
-#### VISUAL Report
+#### VISUAL REPORTS 
 ![](picture1.png)
 ![](picture2.png)
 ![](picture3.png)
 ---
 #### RECOMMENDATION
 
-Based on what we've learned, it's important for younger women to get regular check-ups. For older women, it's important to have more thorough screenings and treatments tailored to their specific hormone levels to improve their chances of recovery.
+- **Based on what we've learned, it's important for younger women to get regular check-ups.**
+
+- **For older women, it's important to have more thorough screenings and treatments tailored to their specific hormone levels to improve their chances of recovery.**
 ---
 
 #### CONCLUSION
 
 These insights help identify patterns associated with breast cancer in different age groups.
 
-# REPORT
-
-I had one of the best weeks of my life at the just concluded future boot camp by incubator nigeria and RCCG, I would say that i have never experienced anything like, Kudos you to you guys.
 
 
 
